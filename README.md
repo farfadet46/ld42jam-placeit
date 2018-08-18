@@ -5,5 +5,4 @@ all CC0
 have fun with it :)
 <center>
 <img src="fond.PNG" alt="screenshot">
-<img src="smiley.gif" alt="Smiley face">
 </center>
